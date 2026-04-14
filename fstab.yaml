@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/jalagari/da-forms/
+    url: https://content.da.live/electzeus/da-forms/
     type: markup
